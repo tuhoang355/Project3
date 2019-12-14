@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Final SDS348 Project-My Website</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Final SDS348 Project-My Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python and R Example Throughout Semester</title>
+      <link>/blog/python-and-r-example-throughout-semester/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/python-and-r-example-throughout-semester/</guid>
+      <description>Python
+Here are some example of what I did with Python during my time in SDS348.
+Python is one of the most popular languages used in the computer science realm. Since it can get complex real quick, it is important to first get the hang of some of the more basic codes. Here are some basic codes to get you adjusted to Python
+print(&amp;quot;hello world&amp;quot;) ## hello world By importing numpy as np, we can even use python to perform basic calculations!</description>
+    </item>
+    
+  </channel>
+</rss>
